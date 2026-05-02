@@ -9,7 +9,7 @@ const niche = [
     {
         icon: faServer,
         title: "Enterprise Web Systems & Backend Engineering",
-        description: "I build and maintain production-grade backend systems and web applications in large-scale enterprise environments and independent projects. I focus on data workflows, APIs, and system reliability.",
+        description: "I build and maintain production-grade backend systems and web applications in large-scale enterprise environments and independent projects.",
         tags: ["Java", "Python", "C#", "REST APIs", "SQL", "PostgreSQL", "X++", "Docker", "Kubernetes", "Git", "Azure DevOps"]
     },
     {

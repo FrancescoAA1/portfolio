@@ -13,10 +13,12 @@
 
 .vertical-timeline-element h3 {
     color: rgb(39, 40, 34);
+    margin: 0;
 }
 
 .vertical-timeline-element h4 {
     color: rgb(39, 40, 34);
+    margin: 5px 0 10px 0;
 }
 
 .vertical-timeline-element span {
@@ -31,8 +33,35 @@
     color: white;
 }
 
+.timeline-content-with-logo {
+    display: flex;
+    gap: 15px;
+    align-items: flex-start;
+
+    .timeline-logo {
+        width: 50px;
+        height: 50px;
+        object-fit: contain;
+        flex-shrink: 0;
+        border-radius: 4px;
+    }
+
+    div {
+        flex: 1;
+    }
+}
+
 @media screen and (max-width: 1170px) {
     .vertical-timeline-element .vertical-timeline-element-date {
         color: rgb(39, 40, 34);
+    }
+
+    .timeline-content-with-logo {
+        gap: 10px;
+
+        .timeline-logo {
+            width: 40px;
+            height: 40px;
+        }
     }
 }
