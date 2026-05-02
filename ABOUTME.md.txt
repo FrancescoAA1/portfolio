@@ -1,0 +1,78 @@
+Education
+Danmarks Tekniske Universitet Kongens Lyngby, Denmark
+MSC iN COMPUTER SCiENCE AND ENGiNEERiNG (T.I.M.E. DOUBLE DEGREE PROGRAM) ‑ CYBERSECURiTY TRACK Sep. 2025 ‑ Present
+Università degli Studi di Padova Padua, Italy
+Francesco FantinMSC iN COMPUTER SCiENCE AND ENGiNEERiNG ‑ ICT FOR INTERNET AND MULTiMEDiA ‑ CYBERSYSTEMS · SOFTWARE ENGiNEER
+MSC iN ICT FOR INTERNET AND MULTiMEDiA ‑ CYBERSYSTEMS TRACK (GPA: 28.9/30) (T.I.M.E. DOUBLE DEGREE PROGRAM) Sep. 2024 ‑ Present
+Galilean School of Higher Education Padua, Italy
+POSTGRADUATE MASTER’S DEGREE iN SOCiAL SCiENCES (GPA: 29.6/30) ‑ SCHOOL OF EXCELLENCE OF UNiPD Sep. 2021 ‑ Present
+Hochschule Muenchen Munich, Germany
+ERASMUS+ EXCHANGE PROGRAM ‑ COURSES FROM COMPUTER SCiENCE AND MATHEMATiCS/HM BUSiNESS SCHOOL Mar. 2024 ‑ Aug. 2024
+Università degli Studi di Padova Padua, Italy
+BSC iN COMPUTER ENGiNEERiNG (FiNAL GRADE: 110/110 CUM LAUDE) Sep. 2021 ‑ Sep. 2024
+Experience
+Microsoft Kongens Lyngby, Denmark
+SOFTWARE ENGiNEER INTERN March. 2026 ‑ Present
+• Contributing to Dynamics 365 SCM Distribution team supporting warehouse and logistics operations in a large‑scale system
+• Implementing bug fixes and feature updates in X++ across a complex distributed codebase
+• Working on extensibility features involving data entities to support warehouse deployment and automation workflows
+Laerdal Copenahgen Copenhagen, Denmark
+SOFTWARE TESTER Dic. 2025 ‑ Feb. 2026
+• Performed manual and exploratory testing within the vSim team on a large‑scale digital simulation platform for nursing scenarios
+• Designed and executed automated end‑to‑end tests validating patient workflows across UI and core system logic
+• Conducted functional and UI/UX validation, supporting defect tracking and verification in a Scrum environment
+Padua, Italy
+INDEPENDENT SOFTWARE ENGiNEER ‑ CONSULTANT Mar. 2025 ‑ Nov. 2025
+• Engineered backend functionality using Jakarta EE, Java libraries, and Python, integrating AI features.
+• Built responsive frontends with HTML, CSS, and Bootstrap, managing application’s version control via Bitbucket and GitHub.
+• Designed and optimized PostgreSQL databases and deployed applications in Docker/Kubernetes containerized environments.
+Projects
+Wine3Locks – Ethereum DApp for Wine Supply Chain May 2024 ‑ Jul 2024
+• Developed and deployed Solidity smart contracts for product purchase; integrated front‑end also using Web3.js with MetaMask wallet.
+Klotski – a sliding block puzzle available for MacOS and Windows May 2023 ‑ Jul 2023
+• Developed a single‑player Klotski using JavaFX and SQLite, featuring hint suggestions for optimal moves and adopting agile techniques.
+Registro Elettronico – Role‑Based School Management Web App May 2021 ‑ Jul 2021
+• Developed ASP.NET web application with Bootstrap frontend, Microsoft SQL Server backend; secured with SHA‑256 password hashing.
+Skills
+Programming & Web Java, C#, Python, TypeScript, Solidity, C++, SQL, PHP, HTML, CSS, Bootstrap, REST APIs
+Frameworks & Tools .NET, Playwright, Azure DevOps, GitHub, Bitbucket, Docker, Kubernetes, JUnit, IntelliJ IDEA, Visual Studio
+Certifications & Courses Cisco IT Essentials, ECDL Base (Office365), PowerBI
+Soft Skills Problem‑Solving, Teamwork, Empathy, Creativity, Stress and Time Management, Responsibility
+Networks & Volunteering Lead The Future, Galilean Alumni Association, Erasmus Student Network, NoiPadova
+Languages Italian (Native), English (C2), German (A2), Danish (A1)
+Înterests Cinema, Startups, Reading, Web Development, Blockchain, Cybersecurity
+
+ AESBenchmark Public
+Project with three versions of AES and their respective performance profiles.
+
+ C++
+
+ BattleShipProject Public
+C++ implementation of an advanced version of the Battleship game where each player has two 12x12 grids: a defense grid to place their naval units and an attack grid to track hits on the opponent. E…
+
+ C++
+
+ e-vibe Public
+Web App aimed at boosting local events. It allows the interaction between participants and organizers, all managed by administrators.
+
+ Java  2
+
+ Klotski Public
+Klotski Project - a sliding block puzzle available for MacOS and Windows
+
+ Java
+
+ TimRIP/aes_project Public
+code for a aes python implementation in 02232
+
+ Python LOOK HERE FOR MOR INFO ABOUT MY PROJECTS https://github.com/FrancescoAA1
+
+	WHO AM I 
+I have always been attracted to international environments, which is why I decided to pursue a Master’s degree program in Computer Engineering at DTU and UniPD, while gaining experience in backend systems, full-stack applications, and specializing in cybersecurity. 
+
+I thrive in collaborative and international teams and enjoy working on projects ranging from enterprise software and AI integrations to blockchain DApps and web applications, using technologies such as Java, C#, C++, Python, Docker, Kubernetes, and PostgreSQL. 
+My experience includes freelance software engineering, web development, and product-focused internships.
+
+Finally, outside work, I love exploring cinema, entrepreneurship, geography, and cooking.
+
+OTHER INFO Infineon Technologies Scholarship - ICT for Internet and Multimedia 2025WON
