@@ -29,9 +29,10 @@
     display: -webkit-flex;
     align-items: flex-end;
     -webkit-align-items: flex-end;
-    background-size: cover;
+    background-size: 95%;
     background-position: center;
     background-repeat: no-repeat;
+    background-clip: padding-box;
     border-radius: 16px;
     overflow: hidden;
     position: relative;
@@ -106,6 +107,10 @@
         -webkit-transform: translateY(0);
         transform: translateY(0);
     }
+}
+
+.projects-grid .project-card:nth-child(3) {
+    background-size: 40%;
 }
 
 /* Responsive styles */

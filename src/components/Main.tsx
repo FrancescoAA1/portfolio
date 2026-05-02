@@ -9,7 +9,7 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src="https://via.placeholder.com/400" alt="Avatar" />
+          <img src={require("../assets/images/DSC_0185.jpg")} alt="Avatar" />
         </div>
         <div className="content">
           <div className="social_icons">
