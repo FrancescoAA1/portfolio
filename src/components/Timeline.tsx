@@ -62,7 +62,7 @@ function Timeline() {
               <img src={logo4} alt="UNIPD" className="timeline-logo"/>
               <div>
                 <h3 className="vertical-timeline-element-title">Software Engineer & Consultant</h3>
-                <h4 className="vertical-timeline-element-subtitle">Independent — Padua, Italy</h4>
+                <h4 className="vertical-timeline-element-subtitle">Independent, Padua, Italy</h4>
                 <p>
                   Full-stack development, blockchain solutions, backend optimization
                 </p>
@@ -79,7 +79,7 @@ function Timeline() {
               <img src={logo3} alt="TIME DTU" className="timeline-logo"/>
               <div>
                 <h3 className="vertical-timeline-element-title">TIME Program Student</h3>
-                <h4 className="vertical-timeline-element-subtitle">Technical University of Denmark — Copenhagen, Denmark</h4>
+                <h4 className="vertical-timeline-element-subtitle">Technical University of Denmark, Copenhagen, Denmark</h4>
                 <p>
                   International academic exchange in Computer Engineering with multicultural learning environment
                 </p>
