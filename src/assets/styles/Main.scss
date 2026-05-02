@@ -131,6 +131,10 @@
         .about-section h1 {
             font-size: 3.5em !important;
             text-align: left;
+            background: none !important;
+            -webkit-background-clip: unset !important;
+            -webkit-text-fill-color: white !important;
+            color: white !important;
         }
 
         .about-section p {
